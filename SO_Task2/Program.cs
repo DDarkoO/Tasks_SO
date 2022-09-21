@@ -1,13 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace CorrectStringsNamespace
+namespace SO_Task2
 {
-    //Valid String Problem 1 (0 / 0) You are given a string and your job is to write a function that determines if that string is valid by following these rules: The number of times that the letters appear in the string should be the same The string is also correct if by removing only 1 character, the remaining appear the same number of times If a string is valid return "CorrectString", if it is not valid return "Not Correct String"
-
     public class CorrectStrings
     {
         public static string ReadInput()

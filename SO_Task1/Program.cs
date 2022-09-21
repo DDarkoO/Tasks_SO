@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MaxMinAlteredNumber
+namespace SO_Task1
 {
     internal class Program
     {
